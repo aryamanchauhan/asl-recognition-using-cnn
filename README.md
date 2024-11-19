@@ -35,15 +35,3 @@ model.h5: Trained model file.
 model.json: Model architecture in JSON format.
 
 trainmodel.py: Script to train the machine learning model.
-
-## Usage
-
-Prepare your dataset and ensure it is in the correct format as expected by the scripts.
-
-python collectdata.py
-
-python data.py
-
-python trainmodel.py
-
-python app.py
