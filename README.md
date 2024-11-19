@@ -1,4 +1,4 @@
-## Sign-Language-Detection-Using-Machine-Learning-A-Real-Time-Approach
+## Sign Language Detection Using Machine Learning (Real Time)
 
 
 This repository contains the code and resources for the research paper "Sign Language Detection Using Machine Learning:
